@@ -1,0 +1,14 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "simple counter",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "midhun",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
